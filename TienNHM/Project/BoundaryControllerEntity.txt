@@ -1,0 +1,48 @@
+## Boundary
+- Register UI
+- Search Film UI
+- Create Employee UI
+- Information Employee UI
+- List Employee UI
+- Trang đăng nhập
+- Trang cá nhân
+- Logout Form ---> Logout UI
+- Home UI/Trang chủ	----> Homepage
+- Trang quản lý tài khoản ---> Account Management UI
+- Ticket Sell
+- Ticket Management UI
+- Booking Management UI
+- Payment UI
+- Trang thanh toán ví điện tử
+- Manage Movie UI/Movie Management UI
+- Movie Type Management UI
+- Schedule Management UI
+- Trang tạo hợp đồng
+- Dashboard UI
+
+## Controller
+- Account Management
+- Movie Management
+- Employee Management
+- Session Controller
+- User Controller  ----------> ?????
+- Booking Management
+- Ticket Management
+- Movie Type Management
+- Schedule Management
+- Contract Controller
+
+## Entity
+- Customer
+- Account
+- Movie
+- Employee
+- Schedule
+- Model: Ticket, Schedule Room
+- Booking Info
+- Ticket
+- Bill
+- Movie
+- Movie Type
+- Room
+- Contract

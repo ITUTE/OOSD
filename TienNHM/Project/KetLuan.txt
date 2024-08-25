@@ -1,0 +1,2 @@
+Thông qua việc thực hiện đồ án, giúp chúng em nắm rõ quy trình thiết kế một phần mềm hướng đối tượng, cung cấp các kiến thức quan trọng để từ đó có thể đọc hiểu một bản thiết kế phần mềm, đồng thời giúp áp dụng vào các dự án trong tương lai.
+Mặt khác, quá trình thực hiện đồ án cũng tạo điều kiện để giúp chúng em làm quen và vận dụng cách vẽ biểu đồ UML, sử dụng các công cụ hỗ trợ vẽ hình, giúp nâng cao hiệu suất và giảm thời gian.

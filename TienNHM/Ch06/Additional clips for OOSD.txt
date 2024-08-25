@@ -1,0 +1,14 @@
+Usecase diagram:
+https://www.youtube.com/watch?v=zid-MVo7M-E
+
+Sequence diagram:
+https://www.youtube.com/watch?v=pCK6prSq8aw
+
+Class diagram:
+https://www.youtube.com/watch?v=UI6lqHOVHic&t=5s
+
+State diagram:
+https://www.youtube.com/watch?v=_6TFVzBW7oo
+
+Component diagram:
+https://www.youtube.com/watch?v=KQUGFFN4M90

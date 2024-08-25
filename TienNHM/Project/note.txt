@@ -1,0 +1,25 @@
+- Usecase: thường không dùng dùng phẩy
+
+- Có thể gom class controller lại để giúp lập trình hiểu quả hơn
+
+Hình vuông:
+- Acti: hành động
+- State: trạng thái
+
+Component: 
+- Mô tả các class có trong từng component. Mỗi module gồm 1 biểu đồ class
+- Có 1 component diagram tổng quan và các component mô tả thành phần các class mà component có chứa (kể cả boundary)
+
+- Chức năng thanh toán: Dùng generization
+
+
+AccountManagement: 9
+EmployeeManagement: 15
+SesionController: 10
+BookingManagement: 36
+ScheduleManagement: 27
+ContractManagement: 30
+TicketManagement: 34
+MovieTypeManagement: 24
+MovieManagement: 21
+
